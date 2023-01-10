@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "This add-on adds bus addon to Minecraft.Produced by RWA community and customized by YukiO & odakyufan.",
+    "name": "name2  (R)",
+    "uuid": "uuid1",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "This add-on adds bus addon to Minecraft.Produced by RWA community and customized by YukiO & odakyufan.",
+      "type": "resources",
+      "uuid": "uuid2",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
